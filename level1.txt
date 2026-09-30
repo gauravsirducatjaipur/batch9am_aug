@@ -1,0 +1,32 @@
+🔹 Level 1: Basics (Beginner / Easy)
+Print "Hello, World!"
+Take user input and display it back.
+Swap two numbers (with & without a third variable).
+Find square of a number.
+Calculate area & perimeter of circle, rectangle, triangle, square.
+
+area of circle
+area of rectangle
+area of triangle
+area of square
+perimeter of circle
+perimeter of rectangle
+perimeter of triangle
+perimeter of square
+
+Total amount of items purchased → Take quantity & price per item, calculate total bill.
+Student grade calculator → Take marks of 5 subjects, find percentage & grade.
+Convert time → Hours → minutes → seconds.
+Discount calculator → Original price – (discount % × price).
+Shopping cart total → Take multiple items (qty × price), calculate bill + GST.
+Electricity bill → Units × price per unit.
+Calculate Simple Interest.
+Currency converter → USD ↔ INR (fixed rate).
+Library late fee → Days × fine per day.
+Railway ticket reservation → Passenger details, price per seat.
+Simple calculator → Add, subtract, multiply, divide two numbers.
+Salary calculator → Basic salary + HRA + DA – Tax.
+Movie ticket booking → Price × number of tickets (discount on bulk).
+Restaurant bill → Menu items + tax + tip.
+Convert Celsius ↔ Fahrenheit.
+A coin box contain some type of coin, like rs10, rs5, rs2, rs1, paisa50, paisa25. Now calculate amount in terms of rs and paisa.
